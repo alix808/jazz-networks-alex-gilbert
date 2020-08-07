@@ -116,8 +116,4 @@ svg {
 .dark {
   background: var(--dark);
 }
-
-svg rect {
-  stroke: red;
-}
 </style>
